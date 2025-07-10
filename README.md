@@ -1,7 +1,3 @@
-Project Title
-AI Penetration and Workforce Aging Across Industries
-
-Overview
 This repository contains the data processing, statistical analysis, and visualization code used for studying the relationship between artificial intelligence (AI) penetration and workforce aging across multiple countries and industries. The analysis is based on large-scale panel data and implements both descriptive and regression-based methods.
 
 Features
